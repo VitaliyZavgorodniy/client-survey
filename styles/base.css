@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Nunito, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  font-style: normal;
+  background-color: RGB(250, 250, 250);
+}
+
+body,
+button,
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+p {
+  padding: 0;
+  margin: 0;
+  border: none;
+  outline: none;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.absolute {
+  position: absolute;
+}

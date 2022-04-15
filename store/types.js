@@ -1,0 +1,3 @@
+export const SETDATERANGE = "SETDATERANGE";
+export const UPDATETOKEN = "UPDATETOKEN";
+export const UPDATEUSER = "UPDATEUSER";
